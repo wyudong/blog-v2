@@ -5,14 +5,14 @@ author:
   name: 'Wang Yudong '
   picture: 'https://avatars.githubusercontent.com/u/5687273?v=4'
 slug: 'fydeos-community'
-description: '基于 Discourse 开发的论坛，定制主题外观和管理插件。'
-coverImage: '/images/cover-community-QyND.png'
+description: 'A forum based on Discourse, with customized theme appearance and management plugins.'
+coverImage: '/images/cover-community-IwOT.png'
 tags: [{"label":"Discourse","value":"discourse"},{"label":"Ruby","value":"ruby"},{"label":"CSS","value":"css"},{"value":"postgres","label":"Postgres"}]
 rank: '2'
 publishedAt: '2025-02-14T18:21:34.883Z'
 ---
 
-![](/images/cover-community-cyNj.png)
+![](https://portfolio.wyudong.com/_next/image?url=%2Fimages%2Fcover-community-QyND.png&w=1920&q=100)
 
 \[[Visit website](https://community.fydeos.io)\]
 

@@ -1,6 +1,6 @@
 {
   "commit": "5dcba64b0963df92c1a0c5d5fc4085be4d544c06",
-  "generated": "2025-02-21T05:19:06.840Z",
+  "generated": "2025-02-21T05:22:46.231Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,7 +140,7 @@
     {
       "__outstatic": {
         "commit": "5dcba64b0963df92c1a0c5d5fc4085be4d544c06",
-        "hash": "2640610276",
+        "hash": "4093326534",
         "path": "outstatic/content/posts/fydeos-community.md"
       },
       "author": {
@@ -148,8 +148,8 @@
         "picture": "https://avatars.githubusercontent.com/u/5687273?v=4"
       },
       "collection": "posts",
-      "coverImage": "/images/cover-community-QyND.png",
-      "description": "基于 Discourse 开发的论坛，定制主题外观和管理插件。",
+      "coverImage": "/images/cover-community-IwOT.png",
+      "description": "A forum based on Discourse, with customized theme appearance and management plugins.",
       "publishedAt": "2025-02-14T18:21:34.883Z",
       "rank": "2",
       "slug": "fydeos-community",
