@@ -2,7 +2,7 @@
 author:
   name: 'Wang Yudong '
   picture: 'https://avatars.githubusercontent.com/u/5687273?v=4'
-coverImage: '/images/cover-drop-E5MT.png'
+coverImage: '/images/cover-drop-czOT.png'
 title: '文件共享'
 status: 'published'
 slug: 'fydeos-drop'
