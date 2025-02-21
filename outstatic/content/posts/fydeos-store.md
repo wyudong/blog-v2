@@ -12,7 +12,7 @@ rank: '1'
 publishedAt: '2025-02-14T18:11:10.586Z'
 ---
 
-![](https://portfolio.wyudong.com/_next/image?url=%2Fimages%2Fcover-store-AyOT.png&w=1920&q=100)
+![](/images/cover-store-MyNj.png)
 
 \[[Visit website](https://store.fydeos.io)\]
 
