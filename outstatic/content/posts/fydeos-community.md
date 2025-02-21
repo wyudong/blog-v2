@@ -12,7 +12,7 @@ rank: '2'
 publishedAt: '2025-02-14T18:21:34.883Z'
 ---
 
-![](https://portfolio.wyudong.com/_next/image?url=%2Fimages%2Fcover-community-QyND.png&w=1920&q=100)
+![](/images/cover-community-U0OD.png)
 
 \[[Visit website](https://community.fydeos.io)\]
 
