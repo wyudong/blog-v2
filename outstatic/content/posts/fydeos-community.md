@@ -12,7 +12,7 @@ rank: '2'
 publishedAt: '2025-02-14T18:21:34.883Z'
 ---
 
-![](/images/cover-community-U0OD.png)
+![](/images/cover-community-IwOD.png)
 
 \[[Visit website](https://community.fydeos.io)\]
 
