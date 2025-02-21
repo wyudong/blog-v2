@@ -6,7 +6,7 @@ coverImage: '/images/cover-drop-g1MD.png'
 title: 'File sharing'
 status: 'published'
 slug: 'fydeos-drop'
-description: '类似隔空投送（AirDrop）的文件、文字共享工具。'
+description: 'A file and text sharing tool similar to AirDrop.'
 tags: [{"label":"HTML","value":"html"},{"label":"JavaScript","value":"javaScript"},{"value":"nodeJs","label":"Node.js"},{"label":"WebRTC","value":"webRtc"},{"label":"PWA","value":"pwa"}]
 rank: '3'
 publishedAt: '2025-02-14T18:31:39.330Z'
