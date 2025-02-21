@@ -1,6 +1,6 @@
 {
-  "commit": "ad0fd0a09325418f1c7d8d1dab3dc214fd5a645b",
-  "generated": "2025-02-21T05:25:09.257Z",
+  "commit": "2d49d1adef3bff225cb42c67607eab971dedcd33",
+  "generated": "2025-02-21T05:36:26.915Z",
   "metadata": [
     {
       "__outstatic": {
@@ -94,47 +94,6 @@
     },
     {
       "__outstatic": {
-        "commit": "6f90b4662ca32141414da4ffd59364e7f3109565",
-        "hash": "594480381",
-        "path": "outstatic/content/posts/fydeos-drop.md"
-      },
-      "author": {
-        "name": "Wang Yudong ",
-        "picture": "https://avatars.githubusercontent.com/u/5687273?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/cover-drop-g1MD.png",
-      "description": "A file and text sharing tool similar to AirDrop.",
-      "publishedAt": "2025-02-14T18:31:39.330Z",
-      "rank": "3",
-      "slug": "fydeos-drop",
-      "status": "published",
-      "tags": [
-        {
-          "label": "HTML",
-          "value": "html"
-        },
-        {
-          "label": "JavaScript",
-          "value": "javaScript"
-        },
-        {
-          "label": "Node.js",
-          "value": "nodeJs"
-        },
-        {
-          "label": "WebRTC",
-          "value": "webRtc"
-        },
-        {
-          "label": "PWA",
-          "value": "pwa"
-        }
-      ],
-      "title": "File sharing"
-    },
-    {
-      "__outstatic": {
         "commit": "ad0fd0a09325418f1c7d8d1dab3dc214fd5a645b",
         "hash": "2556200457",
         "path": "outstatic/content/posts/fydeos-store.md"
@@ -173,6 +132,47 @@
         }
       ],
       "title": "App Store"
+    },
+    {
+      "__outstatic": {
+        "commit": "2d49d1adef3bff225cb42c67607eab971dedcd33",
+        "hash": "2086754691",
+        "path": "outstatic/content/posts/fydeos-drop.md"
+      },
+      "author": {
+        "name": "Wang Yudong ",
+        "picture": "https://avatars.githubusercontent.com/u/5687273?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/cover-drop-M4Mj.png",
+      "description": "A file and text sharing tool similar to AirDrop.",
+      "publishedAt": "2025-02-14T18:31:39.330Z",
+      "rank": "3",
+      "slug": "fydeos-drop",
+      "status": "published",
+      "tags": [
+        {
+          "label": "HTML",
+          "value": "html"
+        },
+        {
+          "label": "JavaScript",
+          "value": "javaScript"
+        },
+        {
+          "label": "Node.js",
+          "value": "nodeJs"
+        },
+        {
+          "label": "WebRTC",
+          "value": "webRtc"
+        },
+        {
+          "label": "PWA",
+          "value": "pwa"
+        }
+      ],
+      "title": "File sharing"
     }
   ]
 }

@@ -2,7 +2,7 @@
 author:
   name: 'Wang Yudong '
   picture: 'https://avatars.githubusercontent.com/u/5687273?v=4'
-coverImage: '/images/cover-drop-g1MD.png'
+coverImage: '/images/cover-drop-M4Mj.png'
 title: 'File sharing'
 status: 'published'
 slug: 'fydeos-drop'
@@ -12,7 +12,7 @@ rank: '3'
 publishedAt: '2025-02-14T18:31:39.330Z'
 ---
 
-![](https://portfolio.wyudong.com/_next/image?url=%2Fimages%2Fcover-drop-czOT.png&w=1920&q=100)
+![](/images/cover-drop-YyNj.png)
 
 \[[Try online](https://drop.fydeos.io)\]
 
