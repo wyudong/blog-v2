@@ -2,8 +2,8 @@
 author:
   name: 'Wang Yudong '
   picture: 'https://avatars.githubusercontent.com/u/5687273?v=4'
-coverImage: '/images/cover-drop-czOT.png'
-title: '文件共享'
+coverImage: '/images/cover-drop-g1MD.png'
+title: 'File sharing'
 status: 'published'
 slug: 'fydeos-drop'
 description: '类似隔空投送（AirDrop）的文件、文字共享工具。'
@@ -12,16 +12,16 @@ rank: '3'
 publishedAt: '2025-02-14T18:31:39.330Z'
 ---
 
-![](/images/cover-drop-kwMD.png)
+![](https://portfolio.wyudong.com/_next/image?url=%2Fimages%2Fcover-drop-czOT.png&w=1920&q=100)
 
-\[[在线试用](https://drop.fydeos.com)\]
+\[[Try online](https://drop.fydeos.io)\]
 
-FyDrop 是一款跨平台的文件共享工具，用户只需在同一 WiFi 网络环境下通过浏览器即可在设备间进行文件传输，无需任何额外配置。
+FyDrop is a cross-platform file-sharing tool that allows users to transfer files between devices on the same Wi-Fi network simply by using a web browser, no additional configuration required.
 
-![](/images/demo-drop-EwMT.gif)
+![](/images/demo-drop-g5OD.gif)
 
-主要工作内容：
+Responsibilities:
 
-- **集成开发**：将 FyDrop 无缝嵌入 FydeOS 文件管理器，提升文件管理和传输的整体体验。
-- **服务器搭建**：研究并部署 TURN 服务器，确保设备间连接的稳定性。
-- **版本维护**：定期进行版本更新和维护，持续优化系统性能并确保安全性和兼容性。
+- **Integration Development:** Seamlessly embedded FyDrop into the FydeOS file manager, enhancing overall file management and transfer experiences.
+- **Server Deployment:** Researched and deployed TURN servers to ensure stable connections between devices.
+- **Version Maintenance:** Performed regular updates and maintenance to continually optimize system performance and ensure security and compatibility.
