@@ -3,7 +3,7 @@ const Header = () => {
     <>
       <nav className="flex space-between py-4">
         <h1 className="text-xl">
-          王宇东
+          Yudong Wang
         </h1>
         <div className="flex items-center ml-auto space-x-4">
           <a href="mailto:wangyuuudong@gmail.com" target='_blank'>

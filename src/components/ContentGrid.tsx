@@ -16,7 +16,7 @@ type Props = {
 }
 
 const ContentGrid = ({
-  title = '🛠️ 项目经验',
+  title = '🛠️ Projects',
   items,
   collection,
   priority = false

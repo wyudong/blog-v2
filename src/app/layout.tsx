@@ -1,5 +1,5 @@
 import { Metadata } from 'next'
-import { Noto_Sans_SC } from 'next/font/google';
+import { Montserrat } from 'next/font/google';
 import '../styles/index.css'
 
 export const metadata: Metadata = {
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   }
 }
 
-const notoSansSC = Noto_Sans_SC({ subsets: ['latin'] });
+const montserratFont = Montserrat({ subsets: ['latin'], weight: '400' });
 
 export default function RootLayout({
   children
@@ -27,7 +27,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${notoSansSC.className} bg-neutral-50`}>{children}</body>
+      <body className={`${montserratFont.className} bg-neutral-50`}>{children}</body>
     </html>
   )
 }
