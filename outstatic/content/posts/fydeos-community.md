@@ -1,5 +1,5 @@
 ---
-title: '社区论坛'
+title: 'Community forum'
 status: 'published'
 author:
   name: 'Wang Yudong '
@@ -12,16 +12,16 @@ rank: '2'
 publishedAt: '2025-02-14T18:21:34.883Z'
 ---
 
-![](/images/cover-community-QwOT.png)
+![](/images/cover-community-cyNj.png)
 
-\[[访问网站](https://community.fydeos.com)\]
+\[[Visit website](https://community.fydeos.io)\]
 
-Discourse 是一款开源论坛软件，框架采用 Ember.js 与 Ruby on Rails 技术栈构建。
+Discourse is an open-source forum software built with the Ember.js and Ruby on Rails tech stack.
 
-主要工作内容：
+Responsibilities:
 
-- **版本升级**：定期升级 Discourse 版本，并处理升级过程中产生的代码冲突和 bug。
-- **网络优化**：针对国内网络问题，优化更新流程，减少因网络中断造成的升级失败和停机时间。
-- **多语言支持**：开发语言切换插件，实现导航栏中英文的便捷切换。
-- **订阅管理**：定制订阅绑定插件，使用户能够在论坛中输入激活码，以便获得更高权限的角色。
-- **工单系统**：定制工单系统插件，允许用户在论坛中提交工单，确保获得更快速的支持响应。
+- **Version Upgrades:** Regularly upgraded Discourse to the latest version, resolving code conflicts and bugs encountered during the update process.
+- **Network Optimization:** Addressed domestic network issues by optimizing the update process, thereby reducing failures and downtime caused by network interruptions.
+- **Multi-Language Support:** Developed a language-switch plugin for quick toggling between Chinese and English in the navigation bar.
+- **Subscription Management:** Customized a subscription plugin allowing users to enter activation codes in the forum to obtain higher-level permissions.
+- **Ticket System:** Built a ticket system plugin enabling users to submit support tickets directly in the forum, ensuring faster response times.

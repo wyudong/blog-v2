@@ -1,6 +1,6 @@
 {
-  "commit": "e6556dd7eb7340e8bc20a4464ac855a5f9476d6e",
-  "generated": "2025-02-19T03:11:05.126Z",
+  "commit": "2c4fd4859f83b1d388489d2d711eeb378abf998f",
+  "generated": "2025-02-21T04:31:31.775Z",
   "metadata": [
     {
       "__outstatic": {
@@ -54,43 +54,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "388524e57d119765b54884483ef29e4741bd969d",
-        "hash": "855784607",
-        "path": "outstatic/content/posts/fydeos-community.md"
-      },
-      "author": {
-        "name": "Wang Yudong ",
-        "picture": "https://avatars.githubusercontent.com/u/5687273?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/cover-community-M3OD.png",
-      "description": "基于 Discourse 开发的论坛，定制主题外观和管理插件。",
-      "publishedAt": "2025-02-14T18:21:34.883Z",
-      "rank": "2",
-      "slug": "fydeos-community",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Discourse",
-          "value": "discourse"
-        },
-        {
-          "label": "Ruby",
-          "value": "ruby"
-        },
-        {
-          "label": "CSS",
-          "value": "css"
-        },
-        {
-          "label": "Postgres",
-          "value": "postgres"
-        }
-      ],
-      "title": "社区论坛"
     },
     {
       "__outstatic": {
@@ -173,6 +136,43 @@
         }
       ],
       "title": "文件共享"
+    },
+    {
+      "__outstatic": {
+        "commit": "2c4fd4859f83b1d388489d2d711eeb378abf998f",
+        "hash": "3826310227",
+        "path": "outstatic/content/posts/fydeos-community.md"
+      },
+      "author": {
+        "name": "Wang Yudong ",
+        "picture": "https://avatars.githubusercontent.com/u/5687273?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/cover-community-M3OD.png",
+      "description": "基于 Discourse 开发的论坛，定制主题外观和管理插件。",
+      "publishedAt": "2025-02-14T18:21:34.883Z",
+      "rank": "2",
+      "slug": "fydeos-community",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Discourse",
+          "value": "discourse"
+        },
+        {
+          "label": "Ruby",
+          "value": "ruby"
+        },
+        {
+          "label": "CSS",
+          "value": "css"
+        },
+        {
+          "label": "Postgres",
+          "value": "postgres"
+        }
+      ],
+      "title": "Community forum"
     }
   ]
 }
