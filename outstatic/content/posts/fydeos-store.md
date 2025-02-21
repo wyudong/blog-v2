@@ -2,7 +2,7 @@
 author:
   name: 'Wang Yudong '
   picture: 'https://avatars.githubusercontent.com/u/5687273?v=4'
-coverImage: '/images/cover-store-c2OD.png'
+coverImage: '/images/cover-store-AyOT.png'
 title: '应用商店'
 status: 'published'
 slug: 'fydeos-store'
