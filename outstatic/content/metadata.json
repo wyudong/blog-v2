@@ -1,6 +1,6 @@
 {
-  "commit": "6f90b4662ca32141414da4ffd59364e7f3109565",
-  "generated": "2025-02-21T05:23:33.169Z",
+  "commit": "ad0fd0a09325418f1c7d8d1dab3dc214fd5a645b",
+  "generated": "2025-02-21T05:25:09.257Z",
   "metadata": [
     {
       "__outstatic": {
@@ -54,47 +54,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "75d971242250f500ef4fc878e41ce4ff4675b3b0",
-        "hash": "1379529927",
-        "path": "outstatic/content/posts/fydeos-store.md"
-      },
-      "author": {
-        "name": "Wang Yudong ",
-        "picture": "https://avatars.githubusercontent.com/u/5687273?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/cover-store-MyMz.png",
-      "description": "提供下载网页应用、浏览器插件、皮肤和安卓程序。",
-      "publishedAt": "2025-02-14T18:11:10.586Z",
-      "rank": "1",
-      "slug": "fydeos-store",
-      "status": "published",
-      "tags": [
-        {
-          "label": "React",
-          "value": "react"
-        },
-        {
-          "label": "Node.js",
-          "value": "nodeJs"
-        },
-        {
-          "label": "MongoDb",
-          "value": "mongoDb"
-        },
-        {
-          "label": "Golang",
-          "value": "golang"
-        },
-        {
-          "label": "Postgres",
-          "value": "postgres"
-        }
-      ],
-      "title": "App Store"
     },
     {
       "__outstatic": {
@@ -173,6 +132,47 @@
         }
       ],
       "title": "File sharing"
+    },
+    {
+      "__outstatic": {
+        "commit": "ad0fd0a09325418f1c7d8d1dab3dc214fd5a645b",
+        "hash": "2556200457",
+        "path": "outstatic/content/posts/fydeos-store.md"
+      },
+      "author": {
+        "name": "Wang Yudong ",
+        "picture": "https://avatars.githubusercontent.com/u/5687273?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/cover-store-MyMz.png",
+      "description": "Provides downloadable web apps, browser extensions, themes, and Android apps.",
+      "publishedAt": "2025-02-14T18:11:10.586Z",
+      "rank": "1",
+      "slug": "fydeos-store",
+      "status": "published",
+      "tags": [
+        {
+          "label": "React",
+          "value": "react"
+        },
+        {
+          "label": "Node.js",
+          "value": "nodeJs"
+        },
+        {
+          "label": "MongoDb",
+          "value": "mongoDb"
+        },
+        {
+          "label": "Golang",
+          "value": "golang"
+        },
+        {
+          "label": "Postgres",
+          "value": "postgres"
+        }
+      ],
+      "title": "App Store"
     }
   ]
 }
