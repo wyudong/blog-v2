@@ -1,6 +1,6 @@
 {
   "commit": "75d971242250f500ef4fc878e41ce4ff4675b3b0",
-  "generated": "2025-02-21T04:54:31.943Z",
+  "generated": "2025-02-21T05:02:27.743Z",
   "metadata": [
     {
       "__outstatic": {
@@ -136,7 +136,7 @@
     {
       "__outstatic": {
         "commit": "75d971242250f500ef4fc878e41ce4ff4675b3b0",
-        "hash": "1305163022",
+        "hash": "1379529927",
         "path": "outstatic/content/posts/fydeos-store.md"
       },
       "author": {
@@ -144,7 +144,7 @@
         "picture": "https://avatars.githubusercontent.com/u/5687273?v=4"
       },
       "collection": "posts",
-      "coverImage": "/images/cover-store-AyOT.png",
+      "coverImage": "/images/cover-store-MyMz.png",
       "description": "提供下载网页应用、浏览器插件、皮肤和安卓程序。",
       "publishedAt": "2025-02-14T18:11:10.586Z",
       "rank": "1",
@@ -172,7 +172,7 @@
           "value": "postgres"
         }
       ],
-      "title": "应用商店"
+      "title": "App Store"
     }
   ]
 }
