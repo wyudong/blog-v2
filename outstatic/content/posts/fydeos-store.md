@@ -12,7 +12,7 @@ rank: '1'
 publishedAt: '2025-02-14T18:11:10.586Z'
 ---
 
-![](/images/cover-store-MyNj.png)
+![](/images/cover-store-EyOD.png)
 
 \[[Visit website](https://store.fydeos.io)\]
 
